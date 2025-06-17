@@ -18,10 +18,6 @@ Filters out generic or low-quality questions.
 📤 Export Options
 Export your flashcards as CSV, JSON, Anki, or Quizlet-compatible formats.
 
-🖥️ Demo Screenshot
-[Add a screenshot here using ![Screenshot](url) or an actual image file]
-You can use st.image() in the app to capture and export screenshots.
-
 🧰 Requirements
 Python 3.8+
 
