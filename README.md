@@ -29,8 +29,6 @@ pip install -r requirements.txt
 
 📦 Installation
 bash
-Copy
-Edit
 git clone https://github.com/yourusername/ai-flashcard-generator.git
 cd ai-flashcard-generator
 pip install -r requirements.txt
@@ -43,8 +41,6 @@ Paste it into the sidebar field inside the app.
 
 ▶️ Run the App
 bash
-Copy
-Edit
 streamlit run flashcard_generator.py
 🧪 File Support
 .pdf – Extracts text using PDF processing.
