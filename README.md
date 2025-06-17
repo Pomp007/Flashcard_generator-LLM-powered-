@@ -2,7 +2,11 @@
 🧠 AI Flashcard Generator
 Transform educational content into smart, structured flashcards using AI. Built with Streamlit, this app supports PDF/text input, OpenAI integration, and export to CSV, JSON, Anki, or Quizlet formats.
 
+
 ## 🖼️ App Screenshot
+![Image](https://github.com/user-attachments/assets/db9d01d2-42de-456c-a04a-9626b1a225a9)
+![Image](https://github.com/user-attachments/assets/ebe8c274-827e-4682-bafc-1eadaee5a515)
+
 
 🚀 Features
 ✍️ Text & PDF Input
